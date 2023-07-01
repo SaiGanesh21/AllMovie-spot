@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ALLMovie-spot/static/css/main.334bdeb1.css",
+    "main.js": "/ALLMovie-spot/static/js/main.bb85c61b.js",
+    "index.html": "/ALLMovie-spot/index.html",
+    "static/media/search.svg": "/ALLMovie-spot/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/ALLMovie-spot/static/css/main.334bdeb1.css.map",
+    "main.bb85c61b.js.map": "/ALLMovie-spot/static/js/main.bb85c61b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.bb85c61b.js"
+  ]
+}
